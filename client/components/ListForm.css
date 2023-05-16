@@ -1,0 +1,12 @@
+.list-form {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+.list-input {
+    padding: 10px;
+    border: 1px solid #cdcdcd;
+}

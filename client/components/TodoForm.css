@@ -1,0 +1,33 @@
+.todo-form{
+    display: flex;
+    margin-top: 14%;
+    justify-content: center;
+    gap: 14px;
+    
+}
+
+
+
+.todo-input{
+    height: 18x;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0, 0, 0, .15);
+    padding: 10px;
+    grid-column: 1 / span 3;
+    align-self: center;
+}
+
+.icon{
+    width: 24px
+}
+
+.button{
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    height: 30px;
+    align-self: center;
+}
+

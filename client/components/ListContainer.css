@@ -1,0 +1,10 @@
+.list_container{
+    background-color: rgba(28, 28, 28, 0.041);
+    height: 100%;
+    width: 35%;
+}
+
+.title {
+    padding-top: 6%;
+    text-align: center;
+}
